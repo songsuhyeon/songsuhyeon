@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img width="80%" scr="https://user-images.githubusercontent.com/65274226/209482904-a21b5b5b-3d14-4565-90ad-df296c56e289.gif"/>
+
 <!--
 **songsuhyeon/songsuhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
