@@ -42,12 +42,10 @@
   <a href="s">
     <img src="https://github-readme-stats.vercel.app/api?username=songsuhyeon&theme=tokyonight&show_icons=true" width="42%" />
   </a>
-  <br>
   <a href="s">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songsuhyeon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
   </a>
 
-  
   [![Solved.ac ssh1692](http://mazassumnida.wtf/api/generate_badge?boj=ssh1692)](https://solved.ac/ssh1692)
 </div>
 
