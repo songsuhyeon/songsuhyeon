@@ -7,7 +7,7 @@
   <img width="60%" src="https://user-images.githubusercontent.com/65274226/209482982-c0c335ab-9a32-43e3-aa74-bf2adc53a2cc.gif"/>
 
   <h2 align="center"><b>⚒ Tech Stack ⚒</b></h2>
-  <h3 align="center">💡 used as main stacks 💡</h3>
+  <h3 align="center">💡 used as main stack 💡</h3>
   <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
   <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
   <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
