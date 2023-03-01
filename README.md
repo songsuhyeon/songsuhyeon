@@ -37,7 +37,6 @@
   <br>
   <br>
   
- 
 
 
   [![Solved.ac ssh1692](http://mazassumnida.wtf/api/generate_badge?boj=ssh1692)](https://solved.ac/ssh1692)
